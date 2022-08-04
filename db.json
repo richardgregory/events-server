@@ -1,21 +1,21 @@
 {
-  events: [
+  "events": [
     {
-      id: '1',
-      type: 'mixpanel',
-      eventName: 'WorkerMyJobsPage.Landed',
+      "id": "1",
+      "type": "mixpanel",
+      "eventName": "WorkerMyJobsPage.Landed"
     },
     {
-      id: '2',
-      type: 'mixpanel',
-      eventName: 'WorkerMyJobsPage.Viewed',
-      description: 'Desc goes here'
+      "id": "2",
+      "type": "mixpanel",
+      "eventName": "WorkerMyJobsPage.Viewed",
+      "description": "Desc goes here"
     },
     {
-      id: '3',
-      type: 'mixpanel',
-      eventName: 'BrowsePage.Landed',
-      description: 'Desc goes here'
+      "id": "3",
+      "type": "mixpanel",
+      "eventName": "BrowsePage.Landed",
+      "description": "Desc goes here"
     }
   ]
 }
